@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>自我介绍</title>
-      <link href="/2022/07/23/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
-      <url>/2022/07/23/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</url>
+      <title>Typora简明使用手册</title>
+      <link href="/2022/07/23/Typora%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/"/>
+      <url>/2022/07/23/Typora%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</url>
       
-        <content type="html"><![CDATA[<p>​        21岁是学生，软件工程专业，虽然我的博客可能没什么人会看，但是我可以用博客来记录我的学习，希望能不荒废剩下的两年学习时光。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="多级标题"><a href="#多级标题" class="headerlink" title="多级标题"></a>多级标题</h1><h2 id="标题生成"><a href="#标题生成" class="headerlink" title="标题生成"></a>标题生成</h2><p>快捷键 Ctrl + Num ， 例 . Ctrl + 1 为一级标题</p><p>或者 # 内容为相应多级标题，几个#就为几级</p><p>最多6级标题</p><h2 id="标题修改"><a href="#标题修改" class="headerlink" title="标题修改"></a>标题修改</h2><p>提升标题级别 Ctrl &amp; +</p><p>降低标题级别 Ctrl &amp; -</p><h1 id="文字"><a href="#文字" class="headerlink" title="文字"></a>文字</h1><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p>快捷键 Alt+Shift+5 ，或者  ~~ 删除内容 ~~（符号紧贴内容 ，该功能推荐快捷键）</p><h2 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h2><p>快捷键 Ctrl+I ，或者 * 内容 *（符号紧贴内容）</p><h2 id="加粗"><a href="#加粗" class="headerlink" title="加粗"></a>加粗</h2><p>快捷键 Ctrl+B ，或者 ** 内容 ** （符号紧贴内容）</p><h2 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h2><p>快捷键 Ctrl+U ，或者 <u> 内容 </u>（符号紧贴内容，该功能推荐快捷键）</p><h2 id="高亮"><a href="#高亮" class="headerlink" title="高亮"></a>高亮</h2><p>&#x3D;&#x3D; 快捷键 &#x3D;&#x3D;（符号紧贴内容）</p><h3 id="颜色修改"><a href="#颜色修改" class="headerlink" title="颜色修改"></a>颜色修改</h3><p>文件 &gt; 偏好设置 &gt; 外观 &gt; 打开主题文件夹 &gt; night.css &gt; Ctrl+F 搜索 mark 修改</p><h2 id="上下标"><a href="#上下标" class="headerlink" title="上下标"></a>上下标</h2><p>上标 ^ 内容 ^（符号紧贴内容）</p><p>下标 ~ 内容 ~（符号紧贴内容）</p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><h2 id="表格生成"><a href="#表格生成" class="headerlink" title="表格生成"></a>表格生成</h2><p>快捷键Ctrl + T （该功能推荐快捷键）</p><h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><table><thead><tr><th>功能</th><th>快捷键</th></tr></thead><tbody><tr><td>下方插入行</td><td>Ctrl+Enter</td></tr><tr><td>上移该行</td><td>Alt+↑</td></tr><tr><td>下移该行</td><td>Alt+↓</td></tr><tr><td>左移该列</td><td>Win键+←</td></tr><tr><td>右移该列</td><td>Win键+→</td></tr><tr><td>删除该行</td><td>Ctrl+Shift+退格键</td></tr></tbody></table>]]></content>
       
       
       
